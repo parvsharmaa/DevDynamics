@@ -1,6 +1,6 @@
 # DevDynamics - Developer Activity Dashboard
 
-[DevDynamics Dashboard Live](https://dev-dynamics-dashboard-three.vercel.app/)
+[DevDynamics Dashboard Live](https://dev-dynamics-dashboard-mujx5grie-parvsharmaas-projects.vercel.app/)
 
 ## Project Description
 
